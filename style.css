@@ -56,6 +56,7 @@ body {
 }
 
 .container-body .card {
+    background: white;
     max-width: 21.875rem;
     height: 15.625rem;
     margin: 1.875rem;
