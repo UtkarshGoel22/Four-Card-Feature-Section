@@ -25,9 +25,9 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Screenshot
 
-![Desktop preview for the Profile card component coding challenge](./design/desktop-design.jpg)
+![Desktop preview for the Four card feature section coding challenge](./design/desktop-design.jpg)
 
-![Mobile preview for the Profile card component coding challenge](./design/mobile-design.jpg)
+![Mobile preview for the Four card feature section coding challenge](./design/mobile-design.jpg)
 
 ### Links
 
